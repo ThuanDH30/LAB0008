@@ -1,0 +1,6 @@
+controller\Library.class
+model\TextController.class
+main.class
+view\menu.class
+model\TextAnalyzer.class
+model\TextView.class
